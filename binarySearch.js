@@ -47,3 +47,4 @@ function search(array , target ,leftIndex ,rightIndex) {
 console.log(recursiveBinarySearch([-5 , 2, 3,6 ,10], 10));
 console.log(recursiveBinarySearch([-5 , 2, 3,6 ,10], 20));
 console.log(recursiveBinarySearch([-5 , 2, 3,6 ,10], 6));
+console.log(recursiveBinarySearch([-5 , 2, 3,6 ,10], 20));
